@@ -8,7 +8,12 @@
 - 😄 Pronouns: 🏳️‍⚧️ She/her 🏳️‍⚧️
 - ⚡ Fun fact: I'm actually discovering code after dropping out from medical studies and I love cats.
 
-<!---
-Ssylle/Ssylle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{Fra}
+
+- 👋 Bonjour! Moi c'est @Ssylle
+- 👀 Je m'intéteresse à la programmation informatique, au développement full-stack et les jeux vidéos d'y jouer jusqu'à, un jour peut être, participer à leur création!
+- 🌱 Je suis actuellement une formation en ingénieurie full-stack sur codecademy.
+- 💞️ Je chercher à collaborer et apporter à tous types de projets, je cherche avant tout à me professionaliser!
+- 📫 vous pouvez me contacter via mon adresse e-mail : ellys3557@gmail.com 
+- 😄 Pronoms: 🏳️‍⚧️ Elle 🏳️‍⚧️
+- ⚡ Fun fact: Je découvre le code après m'être réorientée de 5 ans de médecine et j'aime BEAUCOUP les chats.
